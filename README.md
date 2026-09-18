@@ -9,7 +9,7 @@ The objective is to understand customer purchasing patterns and identify meaning
 ## 📊 Dataset Information
 
 * **Dataset:** Black Friday Sales Dataset
-* **Source:** Kaggle
+* **Source:** [Kaggle Black Friday Sales Dataset](https://www.kaggle.com/datasets/shailx/black-friday-sales-dataset)
 * **Records:** 550,068
 * **Columns:** 12
 * **Target Variable:** Purchase
