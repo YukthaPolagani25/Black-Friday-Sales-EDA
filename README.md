@@ -48,6 +48,16 @@ The objective is to understand customer purchasing patterns and identify meaning
 * `Black_Friday_Sales_Prediction-EDA_Project.ipynb` – Jupyter Notebook containing the analysis.
 * `EDA PPT - Black Friday Sales Prediction.pptx` – Project presentation.
 
+## 💡 Skills Demonstrated
+
+- Data Cleaning using Pandas
+- Exploratory Data Analysis (EDA)
+- Data Visualization using Matplotlib and Seaborn
+- Missing Value Handling
+- Outlier Detection and Treatment
+- Pivot Table Analysis
+- Data Interpretation and Business Insights
+
 ## 👩‍💻 Author
 
 **Yuktha Polagani**
