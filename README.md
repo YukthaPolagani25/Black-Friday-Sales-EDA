@@ -48,6 +48,20 @@ The objective is to understand customer purchasing patterns and identify meaning
 * `Black_Friday_Sales_Prediction-EDA_Project.ipynb` – Jupyter Notebook containing the analysis.
 * `EDA PPT - Black Friday Sales Prediction.pptx` – Project presentation.
 
+## 📸 Project Screenshots
+
+### 1. Purchase Amount Distribution
+
+![Purchase Distribution](purchase_distribution.png)
+
+### 2. Average Purchase by Product Category
+
+![Average Purchase by Category](average_purchase_category.png)
+
+### 3. Multivariate Analysis – Age and Gender
+
+![Multivariate Age Gender](multivariate_age_gender.png)
+
 ## 💡 Skills Demonstrated
 
 - Data Cleaning using Pandas
