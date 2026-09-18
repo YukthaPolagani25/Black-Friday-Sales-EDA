@@ -1,0 +1,55 @@
+# Black Friday Sales Prediction – EDA Project
+
+## 📌 Project Overview
+
+This project focuses on Exploratory Data Analysis (EDA) of the Black Friday Sales dataset using Python.
+
+The objective is to understand customer purchasing patterns and identify meaningful insights from sales data.
+
+## 📊 Dataset Information
+
+* **Dataset:** Black Friday Sales Dataset
+* **Source:** Kaggle
+* **Records:** 550,068
+* **Columns:** 12
+* **Target Variable:** Purchase
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+## 🔍 Analysis Performed
+
+* Data loading and understanding
+* Data cleaning and preparation
+* Missing value treatment
+* Duplicate value checking
+* Outlier detection and treatment
+* Univariate analysis
+* Bivariate analysis
+* Multivariate analysis
+* Pivot table analysis
+* Business insights
+
+## 📈 Key Insights
+
+* Customer purchase patterns vary across age groups, genders, cities, and product categories.
+* Male customers show higher average purchase amounts across the analyzed groups.
+* City Category C shows higher average purchase amounts for both genders.
+* Average purchase amounts differ across product categories.
+
+## 📁 Project Files
+
+* `Black_Friday_Sales_Prediction-EDA_Project.ipynb` – Jupyter Notebook containing the analysis.
+* `EDA PPT - Black Friday Sales Prediction.pptx` – Project presentation.
+
+## 👩‍💻 Author
+
+**Yuktha Polagani**
+
+B.Tech Computer Science and Engineering Graduate
